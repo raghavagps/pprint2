@@ -24,6 +24,7 @@ Please provide following arguments
                         Output: File for saving results by default outfile.csv
   -t THRESHOLD, --threshold THRESHOLD
                         Threshold: Value between 0 to 1 by default 0.6
-  -p PATH, --path PATH  Path: Please provide the path of python which has all libraries installed
+  -p PATH, --path PATH  
+                        Path: Please provide the path of python which has all libraries installed
 =====================================================================================================
 ```
