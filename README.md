@@ -8,7 +8,5 @@ RNAInt 2.0 is developed for predicting the RNA-interacting residues in the prote
 ### Minimum Usage
 ```
 python rnaint2.py -i example_seq.fa
-
-where example_seq.fa is a input fasta file. This will predict the residues in the seqqeunces provided  in fasta format as RNA-interacting and non-interacting. It will use other parameters by default. It will save output in "outfile.csv" in CSV (comma seperated variables).
-
 ```
+where example_seq.fa is a input fasta file. This will predict the residues in the seqqeunces provided  in fasta format as RNA-interacting and non-interacting. It will use other parameters by default. It will save output in "outfile.csv" in CSV (comma seperated variables).
