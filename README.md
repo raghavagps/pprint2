@@ -5,6 +5,13 @@ A tool to predict the RNA-interacting residues in a protein sequence.
 RNAInt 2.0 is developed for predicting the RNA-interacting residues in the protein using primary sequence information. More information on RNA-interacting residues is available from its web server http://webs.iiitd.edu.in/raghava/rnaint2. This page provide information about standalone version of RNAInt 2.0. Please read/cite RNAInt 2.0 paper for complete information including algorithm behind RNAInt 2.0.<br>
 
 ## Standalone
+
+### Important Instruction
+In order to run the code, you need to have model file which is stored as prog.zip. Kindly unzip it using the following command:
+```
+unzip prog.zip
+```
+
 ### To get the help
 ```
 python rnaint2.py -h
