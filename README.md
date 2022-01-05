@@ -28,3 +28,10 @@ Please provide following arguments
                         Path: Please provide the path of python which has all libraries installed
 =====================================================================================================
 ```
+* Input File: It allow users to provide input in i) FASTA format (standard) and ii) Simple Format (Single line). The program will generate the patterns of length 17 for each sequence.
+* Output File: Program will save result in CSV format, in case user do not provide output file name, it will be stored in outfile.csv. In the output file, three lines will be displayed for each sequence, where, first line represents the ID, second row explains the sequence, and third line exhibits the '+' and '-' sign, where '+' corresponds to residues which are involved in RNA-interaction, and '-' represents the residues which are not involved in RNA-interaction.
+* Threshold: User should provide threshold between 0 and 1, please note score is propotional to the RNA interacting potential of the resiudes.
+
+
+
+
