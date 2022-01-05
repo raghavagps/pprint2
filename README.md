@@ -14,8 +14,10 @@ where example_seq.fa is a input fasta file. This will predict the residues in th
 ### Complete Usage
 ```
 python dbpred.py [-h] -i INPUT [-o OUTPUT] [-j {1,2,3,4}] [-t THRESHOLD] [-p PATH]
+```
+```
 ====================================================================================================
-Please provide following arguments
+Description of each argument:
 
   -h, --help            show this help message and exit
   -i INPUT, --input INPUT
