@@ -10,7 +10,7 @@ This program implement four modules (job types);
 - Model 1: AAB profile used as input feature
 - Model 2: PCB profile used as input feature
 - Model 3: PSSM profile used as input feature 
-- iv) Model 4: Hybrid of all features (AAB,PSB,PSSM) used as input feature 
+- Model 4: Hybrid of all features (AAB,PSB,PSSM) used as input feature 
 
 # Minimum USAGE
 ```
