@@ -1,0 +1,9 @@
+>test1
+MLDLFADAEPWQEPLAAGAVILRRFAFNAAEQLIRDINDVASQSPFRQMVTPGGYTMSVAMTNCGHLGWTTHRQGYLYSPIDPQTNKPWPAMPQSFHNLCQRAATAAGYPDFQPDACLINRYAPGAKLCLHQDKDEPDLRAPIVSVSLGLPAIFQFGGLKRNDPLKRLLLEHGDVVVWGGESRLFYHGIQPLKAGFHPLTIDCRYNLTFRQAGKKE
+----------------------+++-++-------------+----------++++++-------++-++++++-+-----------------+-------------------------+++-+--+------------+--------------++--+++++--++----------+-++++-+++-----+--++--+-+++++++++++-+++
+>test2
+MNKGQRHIKIREIITSNEIETQDELVDMLKQDGYKVTQATVSRDIKELHLVKVPTNNGSYKYSLPADQRFNPLSKLKRALMDAFVKIDSASHMIVLKTMPGNAQAIGALMDNLDWDEMMGTICGDDTILIICRTPEDTEGVKNRLLELL
+----------------------+++-++-------------+----------++++++-------++-++++++-+-----------------+-------------------------+++-+--+------------+---------
+>test3
+MRGETLKLKKDKRREAIRQQIDSNPFITDHELSDLFQVSIQTIRLDRTYLNIPELRKRIKLVAEKNYDQISSIEEQEFIGDLIQVNPNVKAQSILDITSDSVFHKTGIARGHVLFAQANSLCVALIKQPTVLTHESSIQFIEKVKLNDTVRAEARVVNQTAKHYYVEVKSYVKHTLVFKGNFKMFYDKRG
+----------------------+++-++-------------+----------++++++-------++-++++++-+-----------------+-------------------------+++-+--+------------+--------------++--+++++--++----------+-++++-+++---
