@@ -1,6 +1,6 @@
-# RNAInt2.0
+# PPRInt2.0
 # Introduction
-RNAInt2.0 is developed for predicting the RNA-interacting residues in the protein using primary sequence information. More information on RNA-interacting residues is available from its web server http://webs.iiitd.edu.in/raghava/rnaint2 . This page provide information about standalone version of RNAInt2.0. Please read/cite RNAInt2.0 paper for complete information including algorithm behind RNAInt2.0.
+PPRInt2.0 is developed for predicting the RNA-interacting residues in the protein using primary sequence information. More information on RNA-interacting residues is available from its web server http://webs.iiitd.edu.in/raghava/pprint2 . This page provide information about standalone version of PPRInt2.0. Please read/cite PPRInt2.0 paper for complete information including algorithm behind PPRInt2.0.
 
 # Models
 In this program, four different models have been incorporated for predicting the RNA-interacting residues, based on four different features such as, Amino Acid Binary (AAB) profile, Physico-chemical based binary (PCB) profile, Position-Specific Scoring Matrix (PSSM) profile, and Hybrid (AAB+PCB+PSSM) features. The model is trained on patterns of length 17 generated using protein sequences classified as RNA-interacting and non-interacting.
@@ -14,7 +14,7 @@ This program implement four modules (job types);
 
 # Minimum USAGE
 ```
-python rnaint2.py -i example_seq.fa
+python pprint2.py -i example_seq.fa
 ```
 where example_seq.fa is a input fasta file. This will predict the residues in the seqqeunces provided  in fasta format as RNA-interacting and non-interacting. It will use other parameters by default. It will save output in "outfile.csv" in CSV (comma seperated variables).
 
@@ -22,9 +22,9 @@ where example_seq.fa is a input fasta file. This will predict the residues in th
 ```
 Following is complete list of all options, you may get these options by following command: 
 
-python rnaint2.py -h 
+python pprint2.py -h 
 
-usage: rnaint2.py [-h] -i INPUT [-o OUTPUT] [-j {1,2,3,4}] [-t THRESHOLD]
+usage: pprint2.py [-h] -i INPUT [-o OUTPUT] [-j {1,2,3,4}] [-t THRESHOLD]
                  [-p PATH]
 
 Please provide following arguments
@@ -53,7 +53,7 @@ optional arguments:
 **Threshold:** User should provide threshold between 0 and 1, please note score is propotional to the RNA interacting potential of the resiudes..
 
 
-RNAInt2.0 Package Files
+PPRInt2.0 Package Files
 =======================
 It contantain following files, brief descript of these files given below
 
@@ -65,7 +65,7 @@ README.md     			: This file provide information about this package
 
 prog            		: This folder contains all the models
 
-rnaint2.py 			: Main python program 
+pprint2.py 			: Main python program 
 
 example_output_AAB.txt		: Example output file in csv format for job 1, i.e. AAB based model
 

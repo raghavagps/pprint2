@@ -1,7 +1,7 @@
 ##############################################################################
-# RNAInt2.0 is developed for predicting the RNA-interacting residues in protein  #
+# PPRInt2.0 is developed for predicting the RNA-interacting residues in protein  #
 # using primary structure. It is developed by Prof G. P. S. Raghava's group.  #
-# Please cite: RNAInt2.0						      #
+# Please cite: PPRInt2.0						      #
 # ############################################################################
 import os
 import pickle
@@ -431,7 +431,7 @@ def result_maker(data_1,data_2,data_3,data_4,num):
     df3['Pred'] = uu
     df3.to_csv(data_4,index=None, header=False, sep="\n")
 ('##############################################################################')
-print('# This program RNAInt2.0 is developed for predicting RNA-interacting resdiues  #')
+print('# This program PPRInt2.0 is developed for predicting RNA-interacting resdiues  #')
 print('# in protein sequence, developed by Prof G. P. S. Raghava group. #')
 print('# ############################################################################')
 
@@ -531,6 +531,6 @@ if Job==4:
     os.remove('seqids.csv')
     os.remove(file_gen)
 
-print('\n======= Thanks for using RNAInt2.0. Your results are stored in file :',outFile,' =====\n\n')
-print('Please cite: RNAInt2.0\n')
+print('\n======= Thanks for using PPRInt2.0. Your results are stored in file :',outFile,' =====\n\n')
+print('Please cite: PPRInt2.0\n')
 print("Et voila. The process is done!!!!!")
