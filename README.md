@@ -81,4 +81,4 @@ envfile                 	: It is a file which contains the path various tools re
 
 # Reference:
 
-Patiyal S, Dhall A, Bajaj K, Sahu H, Raghava GPS. Prediction of RNA-interacting residues in a protein using CNN and evolutionary profile. Brief Bioinform. 2022 Dec 14:bbac538. doi: 10.1093/bib/bbac538. Epub ahead of print. PMID: 36516298.
+Patiyal S, Dhall A, Bajaj K, Sahu H, Raghava GPS. Prediction of RNA-interacting residues in a protein using CNN and evolutionary profile. Brief Bioinform. 2022 Dec 14:bbac538. <a href="https://pubmed.ncbi.nlm.nih.gov/36516298/">doi: 10.1093/bib/bbac538.</a> PMID: 36516298.
