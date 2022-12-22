@@ -78,3 +78,7 @@ example_output_Hybrid.txt	: Example output file in csv format for job 4, i.e. Hy
 example_seq.fa			: Example file contain peptide sequenaces in FASTA format
 
 envfile                 	: It is a file which contains the path various tools required to generate PSSM profile
+
+# Reference:
+
+Patiyal S, Dhall A, Bajaj K, Sahu H, Raghava GPS. Prediction of RNA-interacting residues in a protein using CNN and evolutionary profile. Brief Bioinform. 2022 Dec 14:bbac538. doi: 10.1093/bib/bbac538. Epub ahead of print. PMID: 36516298.
