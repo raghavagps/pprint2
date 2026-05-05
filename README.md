@@ -2,6 +2,9 @@
 # Introduction
 PPRInt2.0 is developed for predicting the RNA-interacting residues in the protein using primary sequence information. More information on RNA-interacting residues is available from its web server http://webs.iiitd.edu.in/raghava/pprint2 . This page provide information about standalone version of PPRInt2.0. Please read/cite PPRInt2.0 paper for complete information including algorithm behind PPRInt2.0.
 
+# Dataset folder
+Contain all the dataset
+
 # Models
 In this program, four different models have been incorporated for predicting the RNA-interacting residues, based on four different features such as, Amino Acid Binary (AAB) profile, Physico-chemical based binary (PCB) profile, Position-Specific Scoring Matrix (PSSM) profile, and Hybrid (AAB+PCB+PSSM) features. The model is trained on patterns of length 17 generated using protein sequences classified as RNA-interacting and non-interacting.
 
