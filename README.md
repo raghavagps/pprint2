@@ -2,6 +2,9 @@
 # Introduction
 PPRInt2.0 is developed for predicting the RNA-interacting residues in the protein using primary sequence information. More information on RNA-interacting residues is available from its web server http://webs.iiitd.edu.in/raghava/pprint2 . This page provide information about standalone version of PPRInt2.0. Please read/cite PPRInt2.0 paper for complete information including algorithm behind PPRInt2.0.
 
+# Zenodo
+https://doi.org/10.5281/zenodo.20034327
+
 # Dataset folder
 Contain all the dataset
 
